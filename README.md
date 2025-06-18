@@ -1,4 +1,4 @@
-# 📚 Sofi's Learning Log — Summer 2025
+# 📚 Sofía's Learning Log — Summer 2025
 
 Welcome! This repository documents my learning journey throughout Summer 2025 🌞.
 
