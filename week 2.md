@@ -14,4 +14,9 @@ I worked on an issue for the WHOLE day! It was about a semester filter/menu that
 
 
 ## Day 4:
-I went back to the UAT issue and worked more deeply with the .prod versions of the dockerfile and docker compose. I learned that they used CloudFlare pages to deploy the website, so I got the environment ready to test this new feature. That day, I continued reviewing my changes from Ideal and followed some suggestions to make the code cleaner. 
+I went back to the UAT issue and worked more deeply with the .prod versions of the dockerfile and docker compose. I learned that they used CloudFlare pages to deploy the website, so I got the environment ready to test this new feature. That day, I continued reviewing my changes from Ideal and followed some suggestions to make the code cleaner. That day, I continued working with Clau's Kitchen, added new button effects, and also added other pages to the website. I did not show my mom any of these changes because I meant to be a surprise.
+
+## Day 5:
+Finally FriYAY! This week has been full of headaches, cough, and lots of learning too. I also enjoyed working remotely, since my dog was next to me the whole time. On Friday, I started working on a new issue that they assigned to me from Ideal. This time, it was easy; I had to research and write Ideal's contributing guidelines. After reading and writing a lot, I presented my changes to Profe Ale and had the day off to continue working on my personal project, which I shared with Profe Ale. I continued with Clau's Kitchen, adding the recipe posts and also correcting the functionality of some buttons and links. 
+
+
